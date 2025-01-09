@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "tittle": "Matematika",
+        "Author": "Austen, June",
+        "year_writen": 1845,
+        "edition": "penguin",
+        "price": 18.1
+    },
+
+    {
+        "id":2,
+        "tittle": "Sejarah",
+        "Author": "Roy, martiel",
+        "year_writen": 2021,
+        "edition": "kumpulan soal",
+        "price": 24.3
+    },
+
+    {
+        "id":3,
+        "tittle": "Tokoh Dunia",
+        "Author": "Julaeha",
+        "year_writen": 1895,
+        "edition": "tokoh",
+        "price": 19.3
+    },
+
+    {
+        "id":4,
+        "tittle": "Rumah Mistery",
+        "Author": "Julaeha",
+        "year_writen": 1992,
+        "edition": "mistery",
+        "price": 10.2
+    },
+
+    {
+        "id":5,
+        "tittle": "Menu Lebaran",
+        "Author": "siti",
+        "year_writen": 1892,
+        "edition": "makanan",
+        "price": 5.3
+    }
+
+
+
+
+]
